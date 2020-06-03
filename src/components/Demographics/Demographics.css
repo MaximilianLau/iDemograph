@@ -1,0 +1,85 @@
+.demographicsWrapper img {
+    padding-top:250px;
+    width:500px;
+    height:auto;
+    position:relative;
+}
+.boundingNumber {
+    opacity:0;
+    display:flex;
+    align-items:center;
+}
+.boundingBox:hover p,
+.boundingBox:focus p{
+    opacity:1;
+    color:red;
+    background:black;
+    font-size:3rem;
+}
+.boundingBox {
+    position: absolute;
+    box-shadow: 0 0 0 3px #11fd00 inset;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center; 
+    cursor:pointer;
+}
+.demographicGrid {
+    display:grid;
+    align-items: center;  
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+    grid-gap:10px;
+}
+.demographicResults {
+    padding:5px;
+    text-align:center;
+}
+.demographicResults p {
+    font-size: 1.5rem;
+    color:white;
+}
+.style0 {
+    border:3px solid #11fd00;
+}
+.style1 {
+    border:3px solid red;
+}
+.styleBox1 {
+    box-shadow: 0 0 0 3px red inset;
+}
+.style2 {
+    border:3px solid blue;
+}
+.styleBox2 {
+    box-shadow: 0 0 0 3px blue inset;
+    }
+.style3 {
+    border:3px solid yellow;
+}
+.styleBox3 {
+    box-shadow: 0 0 0 3px yellow inset;   
+}
+.style4 {
+    border:3px solid purple;
+}
+.styleBox4 {
+    box-shadow: 0 0 0 3px purple inset;   
+}
+.style5 {
+    border:3px solid orangered;
+}
+.styleBox5 {
+    box-shadow: 0 0 0 3px orangered inset;   
+}
+.style6 {
+    border:3px solid turquoise;
+}
+.styleBox6 {
+    box-shadow: 0 0 0 3px turquoise inset;   
+}
+.style7 {
+    border:3px solid pink;
+}
+.styleBox7 {
+    box-shadow: 0 0 0 3px pink inset;   
+}
