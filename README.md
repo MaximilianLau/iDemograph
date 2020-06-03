@@ -1,3 +1,14 @@
+Beta 1.0 Released.
+
+WIP
+- add responsiveness to results
+- adding more structure to results
+- more people allowed in pictures / css
+- ability to upload photos to check
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
