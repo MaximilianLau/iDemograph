@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MaximilianLau/iDemograph/static/css/main.5321bd76.chunk.css",
+    "main.js": "/MaximilianLau/iDemograph/static/js/main.27fd8dfb.chunk.js",
+    "main.js.map": "/MaximilianLau/iDemograph/static/js/main.27fd8dfb.chunk.js.map",
+    "runtime-main.js": "/MaximilianLau/iDemograph/static/js/runtime-main.e3aad7d9.js",
+    "runtime-main.js.map": "/MaximilianLau/iDemograph/static/js/runtime-main.e3aad7d9.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/MaximilianLau/iDemograph/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5e9d8f4e.chunk.js": "/MaximilianLau/iDemograph/static/js/2.5e9d8f4e.chunk.js",
+    "static/js/2.5e9d8f4e.chunk.js.map": "/MaximilianLau/iDemograph/static/js/2.5e9d8f4e.chunk.js.map",
+    "index.html": "/MaximilianLau/iDemograph/index.html",
+    "precache-manifest.6b7b05e8a22dcf1ae9b68e0a5c20927f.js": "/MaximilianLau/iDemograph/precache-manifest.6b7b05e8a22dcf1ae9b68e0a5c20927f.js",
+    "service-worker.js": "/MaximilianLau/iDemograph/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/MaximilianLau/iDemograph/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5321bd76.chunk.css.map": "/MaximilianLau/iDemograph/static/css/main.5321bd76.chunk.css.map",
+    "static/js/2.5e9d8f4e.chunk.js.LICENSE.txt": "/MaximilianLau/iDemograph/static/js/2.5e9d8f4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3aad7d9.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5e9d8f4e.chunk.js",
+    "static/css/main.5321bd76.chunk.css",
+    "static/js/main.27fd8dfb.chunk.js"
+  ]
+}
