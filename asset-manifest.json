@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MaximilianLau/iDemograph/static/css/main.5321bd76.chunk.css",
-    "main.js": "/MaximilianLau/iDemograph/static/js/main.27fd8dfb.chunk.js",
-    "main.js.map": "/MaximilianLau/iDemograph/static/js/main.27fd8dfb.chunk.js.map",
-    "runtime-main.js": "/MaximilianLau/iDemograph/static/js/runtime-main.e3aad7d9.js",
-    "runtime-main.js.map": "/MaximilianLau/iDemograph/static/js/runtime-main.e3aad7d9.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/MaximilianLau/iDemograph/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.5e9d8f4e.chunk.js": "/MaximilianLau/iDemograph/static/js/2.5e9d8f4e.chunk.js",
-    "static/js/2.5e9d8f4e.chunk.js.map": "/MaximilianLau/iDemograph/static/js/2.5e9d8f4e.chunk.js.map",
-    "index.html": "/MaximilianLau/iDemograph/index.html",
-    "precache-manifest.6b7b05e8a22dcf1ae9b68e0a5c20927f.js": "/MaximilianLau/iDemograph/precache-manifest.6b7b05e8a22dcf1ae9b68e0a5c20927f.js",
-    "service-worker.js": "/MaximilianLau/iDemograph/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/MaximilianLau/iDemograph/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.5321bd76.chunk.css.map": "/MaximilianLau/iDemograph/static/css/main.5321bd76.chunk.css.map",
-    "static/js/2.5e9d8f4e.chunk.js.LICENSE.txt": "/MaximilianLau/iDemograph/static/js/2.5e9d8f4e.chunk.js.LICENSE.txt"
+    "main.css": "/iDemograph/static/css/main.5321bd76.chunk.css",
+    "main.js": "/iDemograph/static/js/main.2aa9f3f5.chunk.js",
+    "main.js.map": "/iDemograph/static/js/main.2aa9f3f5.chunk.js.map",
+    "runtime-main.js": "/iDemograph/static/js/runtime-main.ef7c912c.js",
+    "runtime-main.js.map": "/iDemograph/static/js/runtime-main.ef7c912c.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/iDemograph/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.458e5735.chunk.js": "/iDemograph/static/js/2.458e5735.chunk.js",
+    "static/js/2.458e5735.chunk.js.map": "/iDemograph/static/js/2.458e5735.chunk.js.map",
+    "index.html": "/iDemograph/index.html",
+    "precache-manifest.293846c011c79676e039f5df7277426c.js": "/iDemograph/precache-manifest.293846c011c79676e039f5df7277426c.js",
+    "service-worker.js": "/iDemograph/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/iDemograph/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5321bd76.chunk.css.map": "/iDemograph/static/css/main.5321bd76.chunk.css.map",
+    "static/js/2.458e5735.chunk.js.LICENSE.txt": "/iDemograph/static/js/2.458e5735.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3aad7d9.js",
+    "static/js/runtime-main.ef7c912c.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.5e9d8f4e.chunk.js",
+    "static/js/2.458e5735.chunk.js",
     "static/css/main.5321bd76.chunk.css",
-    "static/js/main.27fd8dfb.chunk.js"
+    "static/js/main.2aa9f3f5.chunk.js"
   ]
 }
