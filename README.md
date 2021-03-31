@@ -1,3 +1,7 @@
+Place image URLs; the app will detect the people in the photos, and then guess their age, ethnic group, and sex
+
+Changes in API has caused depreciation, update needed.
+
 Beta 1.0 Released.
 
 WIP
